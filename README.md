@@ -57,20 +57,6 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 🗂️ Project Structure
-
-```
-.
-├── components/         # Shared React components
-├── lib/                # Appwrite client and helpers
-├── pages/              # Next.js pages
-├── public/             # Static assets
-├── styles/             # CSS/SCSS files
-├── .env.example        # Example environment variables
-├── next.config.js      # Next.js configuration
-└── README.md           # Project documentation
-```
-
 ## 🛠️ Appwrite Setup
 
 1. Deploy [Appwrite](https://appwrite.io/docs/installation) on your server or use a managed instance.
